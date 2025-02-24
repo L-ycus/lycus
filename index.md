@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Lauryn Hachiya
+description: Computer Science and Political Science
+
 ---
 
